@@ -1,0 +1,63 @@
+[
+    {
+        "id": 1,
+        "cover": "https://i.ibb.co/84Zfw2n/1.jpg",
+        "title": "Top 10 ES6 Features You Must Know",
+        "author_img": "https://i.ibb.co/VvLNdLL/boy1.png",
+        "author": "Hamza Sohail",
+        "posted_date": "September 15, 2023",
+        "reading_time": 5,
+        "description": "ES6 (ECMAScript 2015) revolutionized JavaScript with powerful new features that make coding more efficient, cleaner, and modern. From 'let' and 'const' for better variable scoping to arrow functions that simplify function expressions, ES6 offers developers the tools they need to write smarter and more maintainable code. This article explores the top 10 ES6 features you should master—including template literals, default parameters, destructuring, the spread and rest operators, promises, modules, and classes—complete with clear explanations and practical use cases."
+        ,
+        "hashtags": [
+            "beginners",
+            "es6"
+        ]
+    },
+    {
+        "id": 2,
+        "cover": "https://i.ibb.co/6N2dgnZ/2.png",
+        "title": "JavaScript Objects for Absolute Beginners: A Fun Introduction",
+        "author_img": "https://i.ibb.co/7rFSJx5/girl1.jpg",
+        "author": "Sajal Ali",
+        "posted_date": "August 28, 2023",
+        "reading_time": 4,
+        "description": "Objects are the heart of JavaScript, and understanding them is key to becoming a confident developer. In this beginner-friendly guide, we take a fun and simple approach to learning JavaScript objects. You'll learn how to create objects using literals, access and modify properties, add methods, and use the 'this' keyword effectively. This post is perfect for new programmers who want to build a strong foundation in JavaScript by understanding one of its most important concepts—the object."
+        ,
+        "hashtags": [
+            "javascript",
+            "coding",
+            "dev"
+        ]
+    },
+    {
+        "id": 3,
+        "cover": "https://i.ibb.co/RzGzcPg/3.png",
+        "title": "Component lifecycle in React — Class component vs Functional component",
+        "author_img": "https://i.ibb.co/vwGwnhT/boy2.jpg",
+        "author": "Feroze Khan",
+        "posted_date": "July 10, 2023",
+        "reading_time": 10,
+        "description": "Understanding how components behave throughout their lifecycle is crucial for building responsive and optimized React applications. In this article, we compare the lifecycle of class components—using methods like componentDidMount and componentWillUnmount—with functional components that use the useEffect hook. We explain the mounting, updating, and unmounting phases, and how to manage side effects in each type of component. Whether you're coming from a class-based background or starting fresh with functional components, this post will clarify how lifecycle management works in React."
+        ,
+        "hashtags": [
+            "mid_level",
+            "react"
+        ]
+    },
+    {
+        "id": 4,
+        "cover": "https://i.ibb.co/vvTfkcv/4.jpg",
+        "title": "Free images and resources collection for website",
+        "author_img": "https://i.ibb.co/Sn7zB4q/girl2.jpg",
+        "author": "Anmol Baloch",
+        "posted_date": "June 5, 2023",
+        "reading_time": 9,
+        "description": "Finding the right visuals for your website can be time-consuming, especially when working on a budget. Luckily, there are amazing platforms offering high-quality, royalty-free images and design assets. In this curated collection, you'll discover the best free image sources like Unsplash, Pexels, and Pixabay, along with design tools like Canva that offer free templates, icons, and more. Whether you're designing a blog, e-commerce site, or personal portfolio, this list will help you find the perfect visuals to make your website stand out—without breaking the bank."
+        ,
+        "hashtags": [
+            "development",
+            "resources"
+        ]
+    }
+]
